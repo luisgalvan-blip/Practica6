@@ -6,6 +6,8 @@ Para que no le salgan errores de no se encuentra la clase, lo mejor es compilar 
 de esta forma. Abra su terminal en la carpeta del proyecto y escriba:
 
 rm *.class  
+
 javac *.java
+
 java Main
 
